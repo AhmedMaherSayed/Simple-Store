@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    
+}
+img{
+    width: 100%;
+}
+img:hover{
+    width: 105%;
+    position: absolute;
+    z-index: 999;
+}
+h1{
+    text-align: center;
+    background-color: beige;
+    color: #4f1212;
+    border: 1px solid #4f1212;
+    border-radius: 10px;
+}
+a:hover{
+    width: 7rem;
+}
